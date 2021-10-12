@@ -1,6 +1,6 @@
 # E.V.E.O.L
 
-Enhanced Visualization of EVE Online Locations is a navigation & intel management service for EVE Online
+Enhanced Visualization of EVE Online&trade; Locations, is a navigation & intel management service for EVE Online&trade;
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18103838/136879400-9d6eca33-7f93-4867-b48d-0c1fabb3bb8a.png" alt="" />
